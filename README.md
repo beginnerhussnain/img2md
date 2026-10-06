@@ -1,11 +1,20 @@
-# img2md
+<p align="center">
+  <a href="https://github.com/beginnerhussnain/img2md" target="_blank">
+    <!-- Official Python Logo from Devicon CDN -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="110" alt="Python Logo">
+  </a>
+</p>
 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&style=flat-square)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi&style=flat-square)](https://fastapi.tiangolo.com/)
-[![Tesseract](https://img.shields.io/badge/Tesseract-OCR-yellow?style=flat-square)](https://github.com/tesseract-ocr/tesseract)
-[![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js&style=flat-square)](https://nextjs.org/)
-[![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38bdf8?logo=tailwindcss&style=flat-square)](https://tailwindcss.com/)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)](LICENSE)
+<h1 align="center">img2md</h1>
+
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&style=flat-square" alt="Python"></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi&style=flat-square" alt="FastAPI"></a>
+  <a href="https://github.com/tesseract-ocr/tesseract"><img src="https://img.shields.io/badge/Tesseract-OCR-yellow?style=flat-square" alt="Tesseract"></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-14-black?logo=next.js&style=flat-square" alt="Next.js"></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind-CSS-38bdf8?logo=tailwindcss&style=flat-square" alt="Tailwind"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square" alt="License"></a>
+</p>
 
 A fully local image-to-Markdown converter. Drop in a screenshot, photo, or scan. Get back clean, structured Markdown. Runs entirely on your machine using Tesseract OCR and a heuristic layout parser.
 
